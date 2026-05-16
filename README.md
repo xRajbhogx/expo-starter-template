@@ -50,8 +50,8 @@ If you want to run on a simulator:
 Click the green **"Use this template"** button on GitHub, give your repo a name, then clone it:
 
 ```bash
-git clone https://github.com/your-username/your-project-name.git
-cd your-project-name
+git clone https://github.com/xRajbhogx/expo-starter-template.git
+cd expo-starter-template
 ```
 
 Or scaffold directly with the Expo CLI:
@@ -168,8 +168,8 @@ eas build --platform ios
 
 Looking for a version with more already set up?
 
-- **[expo-starter-nativewind] coming soon — same base with NativeWind (Tailwind for React Native) configured
-- **[expo-starter-full] coming soon — NativeWind + Clerk auth + Zustand + Supabase boilerplates ready to go
+- **[expo-starter-nativewind] coming soon** — same base with NativeWind (Tailwind for React Native) configured
+- **[expo-starter-full] coming soon** — NativeWind + Clerk auth + Zustand + Supabase boilerplates ready to go
 
 ---
 
