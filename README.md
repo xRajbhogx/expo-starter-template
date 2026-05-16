@@ -54,12 +54,6 @@ git clone https://github.com/xRajbhogx/expo-starter-template.git
 cd expo-starter-template
 ```
 
-Or scaffold directly with the Expo CLI:
-
-```bash
-bunx create-expo-app MyApp --template github:xRajbhogx/expo-starter
-cd MyApp
-```
 
 **2. Install dependencies**
 
