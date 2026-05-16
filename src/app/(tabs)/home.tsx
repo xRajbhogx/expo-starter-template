@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 
-const Index = () => {
+const HomeScreen = () => {
   return (
     <View style={styles.container}>
-      <Text>Edit src/app/index.tsx to edit this screen.</Text>
+      <Text>Edit src/app/(tabs)/home.tsx to edit this screen.</Text>
     </View>
   );
 };
 
-export default Index;
+export default HomeScreen;
 
 const styles = StyleSheet.create({
   container: {
